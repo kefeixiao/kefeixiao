@@ -1,6 +1,6 @@
 # 👩‍💻 Kefei Xiao | Data & Learning | Python & AI in Education
 
-📍 Singapore | 📧 cokefei@umich.edu  
+📍 Beijing, China | Ann Arbor, MI | 📧 cokefei@umich.edu  
 💬 she/her | 🧠 Building AI tools for learning & community empowerment  
 
 ---
