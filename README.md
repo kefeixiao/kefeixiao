@@ -1,18 +1,22 @@
-# 👩‍💻 Kefei Xiao | Data & Learning | Python & AI in Education
-
-📍 Beijing, China | Ann Arbor, MI | 📧 cokefei@umich.edu  
-💬 she/her | 🧠 Building AI tools for learning & community empowerment  
+# Aspiring Data Scientist & EdTech Innovator
 
 ---
 
-### 💡 Data Scientist & Education Technologist  
-> Creating AI-powered tools for education and digital storytelling.
-
-I’m an aspiring data scientist and creative technologist, currently studying **Data Science & Economics** at the University of Michigan. With experience in AI-enhanced education tools, digital content production, and community storytelling, I enjoy solving real-world problems at the intersection of **technology**, **design**, and **learning**.
+## Data Science & Psychology Student @ UMich | Data Analysis, Visual Storytelling, AI for Learning | Led AI tools that increased EdTech engagement by 15% & conversions by 12%
 
 ---
 
-### 🛠️ Skills & Tools
+📍 Beijing, China | Ann Arbor, MI | 📧 cokefei@umich.edu 
+
+---
+
+### Socials
+[![GitHub]([https://github.com/kefeixiao])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kefei-xiao-971a16329)
+
+---
+
+### 🛠️ Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -23,7 +27,7 @@ I’m an aspiring data scientist and creative technologist, currently studying *
 
 ---
 
-### 📚 Experience Highlights
+### 📚 Experience
 
 **🔬 AI R&D Specialist** @ CANPOINT 教育科技  
 *Jun 2025 – Jul 2025*  
@@ -48,11 +52,3 @@ I’m an aspiring data scientist and creative technologist, currently studying *
 - 👩‍🔬 *Girls in STEMM* Founder | Visited Dell, Merck, ConocoPhillips for tech career exposure  
 - 💃 *Charity Ball Organizer* | Raised $1570 via event marketing & budgeting  
 - 🧠 *Volunteer Mentor* | Promoted social campaigns via public speaking & design
-
----
-
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kefei-xiao-971a16329)
-
-> 🚀 Let’s connect and create for good!
