@@ -11,7 +11,7 @@
 ---
 
 ### Socials
-[![GitHub]([https://github.com/kefeixiao])
+[![GitHub](https://img.shields.io/badge/-GitHub-0077B5?style=flat&logo=GitHub&logoColor=white)](https://github.com/kefeixiao)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kefei-xiao-971a16329)
 
 ---
