@@ -5,14 +5,15 @@
 ### Experiences
 **AI Agent R&D Specialist** @ CANPOINT Education Technology Co., Ltd., Beijing, China   
 *2025.06 – 2025.07*  
-- Developed a real-time AI handwriting bot using deep learning for calligraphy feedback  
-- Built a TikTok/Xiaohongshu script generator, increasing conversion rate by **12%**  
-- Digitized textbooks with charts/formulas into a searchable knowledge base  
+- Built a calligraphy-learning AI agent on Coze, combining a book-based knowledge base and image recognition to deliver automated feedback on stroke order and structure.
+- Created an AI workflow on Coze to auto-generate short video scripts for marketing, leveraging TikTok/RedNote trends; drove conversion rates by about 12%.
+- Digitized and structured printed educational materials (including charts, formulas, and tables) into a searchable knowledge base, improving content retrieval for teaching and research.
 
 **Literature Teaching Assistant** @ Keystone Academy, Beijing  
 *2024.07 – 2024.08*  
-- Designed interactive PowerPoints to boost student engagement  
-- Created marketing content (Sway & WeChat) that reached **14K+ views**
+- Designed engaging PowerPoint presentations and instructional materials to enhance participation.
+- Bridged communication between students and teachers by aligning activities with student interests.
+- Published digital content via Microsoft Sway and WeChat official account, generating over 14,000 views and boosting public engagement.
 
 ---
 
